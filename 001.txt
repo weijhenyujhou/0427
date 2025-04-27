@@ -5,3 +5,5 @@ Soft
 Push
 
 clone and pull
+
+delete data on github
