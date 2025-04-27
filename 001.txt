@@ -3,3 +3,5 @@
 Soft
 
 Push
+
+clone and pull
